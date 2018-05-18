@@ -13,3 +13,12 @@ output = "Oops!You're wrong"
 }
 wordGuesser("okeke");//displays Oops!You're wrong  
 console.log(output);
+
+ var myNusmber = 2;
+ while (myNumber != Infinity) {          // Execute until Infinity
+     console.log('throw it!!');
+     myNumber= myNumber*myNumber;
+    if(myNumber==Infinity){             // Execute when ewqual to infinity
+       console.log("we google it!!");
+     }
+ }
